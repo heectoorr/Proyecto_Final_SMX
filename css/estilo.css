@@ -1,0 +1,179 @@
+#Noticia1{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+
+}
+
+#Noticia1{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+#Noticia1 img{
+    width: 600px;
+    margin-right: 10px;
+    padding-left: 20px;
+}
+
+#Noticia2{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+
+}
+
+#Noticia2{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+#Noticia2 img{
+    width: 600px;
+    margin-right: 10px;
+    padding-left: 20px;
+}
+
+#textonoticia1{
+    margin-top: 30px;
+}
+
+#textonoticia2{
+    margin-top: 50px;
+}
+
+#Logo{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    
+}
+
+h1{
+    text-align: center;
+    font-size: xx-large;
+    
+}
+
+h3{
+    text-align: center;
+    font-size: x-large;
+    justify-content: space-between;
+
+}
+
+h4{
+    text-align: left;
+    padding-left: 20px;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+img{
+    width: 450px;
+    border-radius: 10px;
+    
+}
+
+#masvendidos{
+    margin-left: 500px;
+}
+ 
+.button{
+    background-color: rgb(30, 120, 255);
+    color: rgb(255, 255, 255);
+    padding-top: 35px;
+    padding: 35px 80px;
+    border-radius: 14px;
+    font-size: 23px;
+    max-width: 500px;
+    width: 100%;
+    border-top: 2px solid black; 
+    border-right: 2px solid black;
+    border-bottom: 2px solid black; 
+    border-left: 2px solid black;
+    
+}
+
+.Generos{
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+#Historia{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+}
+
+.historia1{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.historia2{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.img1{
+    display: flex;
+}
+
+.Menu{
+    background-color: rgb(30, 120, 255);
+    border-radius: 25px;
+    border-top: 2px solid black; 
+    border-right: 2px solid black;
+    border-bottom: 2px solid black; 
+    border-left: 2px solid black;
+}
+
+#vendido10, #vendido9, #vendido8, #vendido7, #vendido6, #vendido5, #vendido4, #vendido3, #vendido2, #vendido1{
+    display: flex;
+}
+
+#numero10, #numero9, #numero8, #numero7, #numero6, #numero5, #numero4, #numero3, #numero2, #numero1{
+    display: flex;
+    margin-top: 50px;
+}
+
+#masjugados{
+    margin-left: 500px;
+}
+
+#nuncaluz{
+    margin-top: 80px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.generos{
+    margin-top: 80px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
